@@ -8,5 +8,12 @@ Hour 1. Introduction to the Unity Development Environment
   - Work through the Unity introduction tutorials: https://unity3d.com/learn/tutorials/topics/interface-essentials
   
 Hour 2. Implementation of basic character controller
-  - Tutor dirven session using unity to develop a simple mouse and keyboard driven player control script
-  - Full source can be found via the Week 1 folder
+  - Using unity to develop a simple keyboard driven player control script
+  - Full source can be found via the Week_1_2 folder
+  
+#Week 2
+
+Hour 1. Further implementation of basic character controller
+  - Adding Jump to the player script
+  - Adding Mouse look to the player script
+  - Full source can be found via the Week_2_1 folder
