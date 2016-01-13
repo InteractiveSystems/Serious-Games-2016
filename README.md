@@ -17,3 +17,8 @@ Hour 1. Further implementation of basic character controller
   - Adding Jump to the player script
   - Adding Mouse look to the player script
   - Full source can be found via the Week_2_1 folder
+
+Hour 2. Implementation of basic Point and Click navigation
+  - Backing a Navigation mesh
+  - Adding a NavMesh Agent
+  - Full source can be found via the Week_2_2 folder
