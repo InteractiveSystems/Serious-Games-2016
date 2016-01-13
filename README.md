@@ -19,6 +19,6 @@ Hour 1. Further implementation of basic character controller
   - Full source can be found via the Week_2_1 folder
 
 Hour 2. Implementation of basic Point and Click navigation
-  - Backing a Navigation mesh
+  - Baking a Navigation mesh
   - Adding a NavMesh Agent
   - Full source can be found via the Week_2_2 folder
