@@ -22,3 +22,15 @@ Hour 2. Implementation of basic Point and Click navigation
   - Baking a Navigation mesh
   - Adding a NavMesh Agent
   - Full source can be found via the Week_2_2 folder
+  
+#Week 3
+
+Hour 1 & 2. Review of current development(s) and introduction to Canvas
+ - Bug fixes (Jump)
+ - Simple Menu
+ - PlayerPref saving
+ - Scene swapping
+ - Full source can be found via the Week_3_1 folder
+ 
+Bonus
+- Addition of jump to Point and Click mode
