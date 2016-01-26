@@ -34,3 +34,4 @@ Hour 1 & 2. Review of current development(s) and introduction to Canvas
  
 Bonus
 - Addition of jump to Point and Click mode
+- Full source can be found via the Week_3_2 folder
