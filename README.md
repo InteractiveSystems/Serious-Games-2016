@@ -33,5 +33,13 @@ Hour 1 & 2. Review of current development(s) and introduction to Canvas
  - Full source can be found via the Week_3_1 folder
  
 Bonus
-- Addition of jump to Point and Click mode
-- Full source can be found via the Week_3_2 folder
+  - Addition of jump to Point and Click mode
+  - Full source can be found via the Week_3_2 folder
+  
+#Week 4
+
+  - Introduction to collision & prefabs
+  - Gamemanager communication
+  - Item collection object
+  - Level completion object
+  - Full source can be found via the Week_4_1 folder
