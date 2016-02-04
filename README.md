@@ -38,7 +38,7 @@ Bonus
   
 #Week 4
 
-  - Introduction to collision & prefabs
+Hour 1 & 2. Introduction to collision & prefabs
   - Gamemanager communication
   - Item collection object
   - Level completion object
